@@ -21,10 +21,13 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  ![GitHub](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
  ![ShellScript](https://img.shields.io/badge/-ShellScript-0D1117?style=for-the-badge&logo=shell&logoColor=FF8C00&labelColor=0D1117)&nbsp;
-
+ ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+ ![Banco de Dados](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8C00&labelColor=0D1117)&nbsp;
 
  
   ### Study in the future:
+ ![BootStrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+ ![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
  ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
