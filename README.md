@@ -12,8 +12,7 @@
 <a href = "mailto:gabrielalveskos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-alves-batista-1999161b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://api.whatsapp.com/send/?phone=553391916117&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-whatsApp-%3b5998?style=for-the-badge&logo=whatsApp&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-
- </div>
+</div>
  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielAlvesB&bg_color=0d1117&color=007cff&line=007cff&point=007cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
