@@ -24,7 +24,8 @@
  ![ShellScript](https://img.shields.io/badge/-ShellScript-0D1117?style=for-the-badge&logo=shell&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![Banco de Dados](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8C00&labelColor=0D1117)&nbsp;
-![BootStrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+ ![BootStrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+ ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
  
   ### Study in the future:
  ![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=FF8C00&labelColor=0D1117)&nbsp;
