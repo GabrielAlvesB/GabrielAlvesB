@@ -20,7 +20,6 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  ![GitHub](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
  ![ShellScript](https://img.shields.io/badge/-ShellScript-0D1117?style=for-the-badge&logo=shell&logoColor=FF8C00&labelColor=0D1117)&nbsp;
- ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![Banco de Dados](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![BootStrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
@@ -32,7 +31,12 @@
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+
+  ### OS:
+  ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+  ![Windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/GabrielAlvesB/count.svg" /></p> 
