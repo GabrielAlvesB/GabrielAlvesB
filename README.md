@@ -38,6 +38,9 @@
 
 
 <div align="center">
+<a href="https://github.com/GabrielAlvesB">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielAlvesB&theme=transparent" />
+</a>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/GabrielAlvesB/count.svg" /></p> 
 <br>
