@@ -9,7 +9,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/gabeel.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank" ></a>
-<a href = "mailto:gabrielalvestech@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href = "mailto:gabeelalvestech@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-alves-batista-1999161b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
   
@@ -23,24 +23,30 @@
  ![BootStrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+ ![FireBase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+ ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117&textColor=0D1117)&nbsp;
  
   ### Study in the future:
  ![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=FF8C00&labelColor=0D1117)&nbsp;
- ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
  ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
- ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![Ruby](https://img.shields.io/badge/-ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   ### OS:
   ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&logoColor=FF8C00&labelColor=0D1117)&nbsp;
   ![Windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&logoColor=FF8C00&labelColor=0D1117)&nbsp;
 
-  ### Iso:
+  ### IDE:
   ![VSCode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![DataGrip](https://img.shields.io/badge/-datagrip-0D1117?style=for-the-badge&logo=datagrip&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![WebStorm](https://img.shields.io/badge/-webstorm-0D1117?style=for-the-badge&logo=webstorm&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![SublimeText](https://img.shields.io/badge/-sublime-0D1117?style=for-the-badge&logo=sublimetext&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+  ### Designer:
+   ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Inkscape](https://img.shields.io/badge/-inkscape-0D1117?style=for-the-badge&logo=inkscape&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![GIMP](https://img.shields.io/badge/-gimp-0D1117?style=for-the-badge&logo=gimp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <a href="https://github.com/GabrielAlvesB">
