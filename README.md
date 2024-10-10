@@ -14,34 +14,37 @@
 </div>
   
  ### Skills:
- ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+ ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
- ![GitHub](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
- ![ShellScript](https://img.shields.io/badge/-ShellScript-0D1117?style=for-the-badge&logo=shell&logoColor=FF8C00&labelColor=0D1117)&nbsp;
- ![Banco de Dados](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+ ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+ ![NextJs](https://img.shields.io/badge/-Next.Js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+ ![HTMX](https://img.shields.io/badge/-HTMX-0D1117?style=for-the-badge&logo=htmx&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+ ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![InertiaJs](https://img.shields.io/badge/-Inertia.js-0D1117?style=for-the-badge&logo=inertia&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![BootStrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+ ![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
  ![FireBase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
- ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
- ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![HTMX](https://img.shields.io/badge/-HTMX-0D1117?style=for-the-badge&logo=htmx&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![NextJs](https://img.shields.io/badge/-Next.Js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![InertiaJs](https://img.shields.io/badge/-Inertia.js-0D1117?style=for-the-badge&logo=inertia&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![podman](https://img.shields.io/badge/-podman-0D1117?style=for-the-badge&logo=podman&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+ ![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDb-0D1117?style=for-the-badge&logo=MongoDb&labelColor=0D1117)&nbsp;
  ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=Insomnia&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![podman](https://img.shields.io/badge/-podman-0D1117?style=for-the-badge&logo=podman&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![GitHub](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
   ### Study in the future:
- ![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=FF8C00&labelColor=0D1117)&nbsp;
- ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+ ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
  ![Ruby](https://img.shields.io/badge/-ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   ### OS:
-  ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&logoColor=FF8C00&labelColor=0D1117)&nbsp;
-  ![Windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+  ![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+  ![Windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
   ### IDE:
   ![VSCode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=0D1117)&nbsp;
